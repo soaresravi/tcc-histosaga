@@ -43,7 +43,7 @@ O projeto foi inspirado no Duolingo, porém adaptado para o ensino de **Históri
 ---
 
 ## Demonstração
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQHjZUN7VJmJ0Q/feedshare-shrink_2048_1536/B4DZtmEM_xGUA0-/0/1766943939335?e=1768435200&v=beta&t=oeXPMZj3kpmLrp9kozNzZ05ufnObP8Q-1po0GlRbz2g" width="100"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQHjZUN7VJmJ0Q/feedshare-shrink_2048_1536/B4DZtmEM_xGUA0-/0/1766943939335?e=1768435200&v=beta&t=oeXPMZj3kpmLrp9kozNzZ05ufnObP8Q-1po0GlRbz2g" />
 
 ---
 
